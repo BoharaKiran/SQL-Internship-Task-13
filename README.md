@@ -1,8 +1,8 @@
 # SQL-Internship-Task-13
 
-##Transactions & ACID Properties
+## Transactions & ACID Properties
 
--multiple SQL statements as a transaction
+multiple SQL statements as a transaction
 -START TRANSACTION, COMMIT, and ROLLBACK
 -failure scenarios and rollback changes
 -Understand ACID Properties
